@@ -1,5 +1,6 @@
 # TIL
 20220123
+- [[Operating System] Paging](https://moz1e.tistory.com/532)
 - [[Operating System] Fit](https://moz1e.tistory.com/531)
 - [[Operating System] External Fragmentation 외부단편화](https://moz1e.tistory.com/530)
 - [[Operating System] Contiguous allocation 연속메모리 할당](https://moz1e.tistory.com/529)
