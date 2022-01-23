@@ -1,5 +1,6 @@
 # TIL
 20220123
+-	[[Operating System] 가상메모리와 물리메모리](https://moz1e.tistory.com/528)
 - [[Network] 3-way-handshake & 4-way-handshake](https://moz1e.tistory.com/527)
 
 20220122
