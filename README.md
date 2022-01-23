@@ -1,4 +1,6 @@
 # TIL
+20220123
+- [[Network] 3-way-handshake & 4-way-handshake](https://moz1e.tistory.com/527)
 20220122
 - [[Network] GET vs POST](https://moz1e.tistory.com/526)
 
