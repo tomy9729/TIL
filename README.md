@@ -1,4 +1,5 @@
 # TIL
+20220126
 20220123
 - [[Operating System] Paging](https://moz1e.tistory.com/532)
 - [[Operating System] Fit](https://moz1e.tistory.com/531)
